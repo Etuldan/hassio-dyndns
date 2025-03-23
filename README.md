@@ -16,7 +16,7 @@ To use the integration in your installation, add the following to your `configur
 #### Basic Example:
 
 ```yaml
-ovh:
+dyndns:
   server: dyndns.org
   domain: subdomain.domain.com
   username: YOUR_USERNAME
