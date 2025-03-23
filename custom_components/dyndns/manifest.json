@@ -1,0 +1,9 @@
+{
+  "domain": "dyndns",
+  "name": "DynHost/DynsDNS",
+  "documentation": "https://github.com/Etuldan/hassio-dyndns/blob/master/README.md",
+  "issue_tracker": "https://github.com/Etuldan/hassio-dyndns/issues",
+  "codeowners": ["@Etuldan"],
+  "iot_class": "cloud_polling",
+  "version": "0.1.0"
+}
