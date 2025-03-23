@@ -17,7 +17,7 @@ To use the integration in your installation, add the following to your `configur
 
 ```yaml
 dyndns:
-  server: dyndns.org
+  host: dyndns.org
   domain: subdomain.domain.com
   username: YOUR_USERNAME
   password: YOUR_PASSWORD
