@@ -7,7 +7,7 @@ To use the integration in your installation, add the following to your `configur
 #### Configuration variables:
 | Variable |  Required  |  Type  | Description |
 | -------- | ---------- | ----------- | ----------- |
-| `server` | yes | string | The DynDNS server your domain is configured |
+| `host` | yes | string | The DynDNS server your domain is configured |
 | `domain` | yes | string |  The subdomain you are modifying the DNS configuration for |
 | `username` | yes | string | The DynHost username |
 | `password` | yes | string | Password for the DynHost username |
